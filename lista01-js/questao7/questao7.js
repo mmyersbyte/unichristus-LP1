@@ -5,4 +5,4 @@ function inverteString(argumento) {
   return argumento.split('').reverse().join('');
 }
 
-console.log(inverteString('lola'));
+console.log(inverteString('Pedro  Victor'));
